@@ -1,1 +1,0 @@
-# sysbeheer-minor
